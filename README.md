@@ -22,7 +22,7 @@ Profesioneller Fokus: Offensive & Defensive Security
 Freizeitlicher Fokus: Server Consulting, Server Management, Development
 ```
 
-Ich bin ein **Cybersecurity guy**, aber das ist nur mein Job. mit über 8 Jahren Erfahrung in der Minecraft Server Landschaft, ist das meine Leidenschaft.
+**Cybersecurity guy**, aber das ist nur mein Job. mit über 8 Jahren Erfahrung in der Minecraft Server Landschaft, ist das meine wahre Leidenschaft.
 
 ---
 
