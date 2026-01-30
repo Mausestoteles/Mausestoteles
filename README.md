@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Pentester+%7C+Purple+Teamer;Web+Developer;Minecraft+Server+Consultant;Security+Enthusiast+since+2016)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Pentester+%7C+Purple+Teamer;Web+Developer;Minecraft+Server+Consultant+/Developer;Security+Enthusiast+since+2016)
 
   [![GitHub followers](https://img.shields.io/github/followers/Mausestoteles?style=for-the-badge&logo=github&color=9745F5)](https://github.com/Mausestoteles)
   [![Discord](https://img.shields.io/badge/Discord-maus1143-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
@@ -91,8 +91,6 @@ Freizeitlicher Fokus: Server Consulting, Server Management, Development
 ---
 
 ## ⛏️ Minecraft Server Consulting, Freizeit
-
-<img align="right" width="150" src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg">
 
 Seit **2016** berate und unterstütze ich Minecraft-Server in folgenden Bereichen:
 
