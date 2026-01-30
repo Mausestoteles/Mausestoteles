@@ -98,7 +98,7 @@ Seit **2016** berate und unterstütze ich Minecraft-Server in folgenden Bereiche
 
 - 🔧 **Server Setup & Optimization** – Performance-Tuning, Plugin empfehulungen, generelle Beratung
 - 🛡️ **Security Audits** – Exploits finden, Griefing verhindern, Anti-Cheat Setup
-- 🏗️ **Custom Plugin Development** – Java/Spigot/Paper Plugins
+- 🏗️ **Custom Plugin Development** – Velocity/Spigot/Paper Plugins
 - 🌐 **Netzwerk-Infrastruktur** – BungeeCord/Velocity Setups, Proxy-Konfiguration
 - 📊 **Community Management** – Discord-Bots, Webseiten, Statistik-Systeme
 - 💰 **Monetarisierung** – Shop-Systeme, Donation-Handling
