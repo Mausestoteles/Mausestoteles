@@ -7,6 +7,7 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/Mausestoteles?style=for-the-badge&logo=github&color=9745F5)](https://github.com/Mausestoteles)
   [![Discord](https://img.shields.io/badge/Discord-maus1143-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+  [![SpigotMC](https://img.shields.io/badge/SpigotMC-maus11143-FF9800?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/members/maus11143.746586/)
   
 </div>
 
