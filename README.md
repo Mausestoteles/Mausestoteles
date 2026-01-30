@@ -1,5 +1,5 @@
 
-# Hey, ich bin Mausi👋
+# ich bin Mausi
 
 <div align="center">
   
@@ -17,7 +17,6 @@
 
 ```yaml
 Name: Mausi
-Standort: Deutschland 🇩🇪
 Aktiv seit: 2016
 Profesioneller Fokus: Offensive & Defensive Security
 Freizeitlicher Fokus: Server Consulting, Server Management, Development
